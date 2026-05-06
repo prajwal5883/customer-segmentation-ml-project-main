@@ -1,0 +1,121 @@
+Customer_ID,Gender,Age,Annual_Income,Spending_Score,Purchase_Frequency,Customer_Value,Engagement_Score,Cluster,Customer_Type
+1,1,19,15000,39,4,5850.0,43,4,Low Value Customer
+2,1,21,15000,81,9,12150.0,90,4,Budget Active Customer
+3,0,20,16000,6,2,960.0,8,2,Low Value Customer
+4,0,23,16000,77,8,12320.0,85,3,Budget Active Customer
+5,0,31,17000,40,5,6800.0,45,2,Regular Customer
+6,0,22,17000,76,8,12920.0,84,3,Budget Active Customer
+7,0,35,18000,6,2,1080.0,8,2,Low Value Customer
+8,0,23,18000,94,10,16920.0,104,3,Budget Active Customer
+9,1,64,19000,3,1,570.0,4,1,Low Value Customer
+10,0,30,19000,72,7,13680.0,79,3,Budget Active Customer
+11,1,67,20000,14,2,2800.0,16,1,Low Value Customer
+12,0,35,20000,99,10,19800.0,109,3,Budget Active Customer
+13,0,58,21000,15,2,3150.0,17,2,Low Value Customer
+14,0,24,21000,77,8,16170.0,85,3,Budget Active Customer
+15,1,37,22000,13,2,2860.0,15,1,Low Value Customer
+16,1,22,22000,79,8,17380.0,87,4,Budget Active Customer
+17,0,35,23000,35,4,8050.0,39,2,Low Value Customer
+18,1,20,23000,66,7,15180.0,73,4,Regular Customer
+19,1,52,24000,29,3,6960.0,32,1,Low Value Customer
+20,0,35,24000,98,10,23520.0,108,3,Budget Active Customer
+21,1,35,25000,35,4,8750.0,39,1,Low Value Customer
+22,1,25,25000,73,8,18250.0,81,4,Budget Active Customer
+23,0,46,26000,5,1,1300.0,6,2,Low Value Customer
+24,1,31,26000,73,8,18980.0,81,4,Budget Active Customer
+25,0,54,27000,14,2,3780.0,16,2,Low Value Customer
+26,1,29,27000,82,9,22140.0,91,4,Budget Active Customer
+27,0,45,28000,32,4,8960.0,36,2,Low Value Customer
+28,1,35,28000,61,6,17080.0,67,4,Regular Customer
+29,0,40,29000,31,4,8990.0,35,2,Low Value Customer
+30,0,23,29000,87,9,25230.0,96,3,Budget Active Customer
+31,1,60,30000,4,1,1200.0,5,1,Low Value Customer
+32,0,21,30000,73,8,21900.0,81,3,Budget Active Customer
+33,1,53,31000,4,1,1240.0,5,1,Low Value Customer
+34,1,18,31000,92,10,28520.0,102,4,Budget Active Customer
+35,0,49,32000,14,2,4480.0,16,2,Low Value Customer
+36,0,21,32000,81,9,25920.0,90,3,Budget Active Customer
+37,0,42,33000,17,2,5610.0,19,2,Low Value Customer
+38,0,30,33000,73,8,24090.0,81,3,Budget Active Customer
+39,0,36,34000,26,3,8840.0,29,2,Low Value Customer
+40,0,20,34000,75,8,25500.0,83,3,Budget Active Customer
+41,0,65,35000,35,4,12250.0,39,2,Low Value Customer
+42,1,24,35000,92,10,32200.0,102,4,Budget Active Customer
+43,1,48,36000,36,4,12960.0,40,1,Low Value Customer
+44,0,31,36000,61,6,21960.0,67,3,Regular Customer
+45,0,49,37000,28,3,10360.0,31,2,Low Value Customer
+46,0,24,37000,65,7,24050.0,72,3,Regular Customer
+47,0,50,38000,55,6,20900.0,61,2,Regular Customer
+48,0,27,38000,47,5,17860.0,52,2,Regular Customer
+49,0,29,39000,42,5,16380.0,47,2,Regular Customer
+50,0,31,39000,42,5,16380.0,47,2,Regular Customer
+51,1,32,40000,60,6,24000.0,66,4,Regular Customer
+52,0,28,40000,74,8,29600.0,82,3,Regular Customer
+53,1,41,41000,30,3,12300.0,33,1,Regular Customer
+54,0,26,41000,85,9,34850.0,94,3,Regular Customer
+55,1,39,42000,45,5,18900.0,50,1,Regular Customer
+56,0,22,42000,91,10,38220.0,101,3,Regular Customer
+57,1,43,43000,20,2,8600.0,22,1,Regular Customer
+58,0,24,43000,80,8,34400.0,88,3,Regular Customer
+59,1,38,44000,25,3,11000.0,28,1,Regular Customer
+60,0,27,44000,88,9,38720.0,97,3,Regular Customer
+61,1,33,45000,40,5,18000.0,45,1,Regular Customer
+62,0,29,45000,79,8,35550.0,87,3,Regular Customer
+63,1,44,46000,18,2,8280.0,20,1,Regular Customer
+64,0,25,46000,95,10,43700.0,105,3,Regular Customer
+65,1,36,47000,35,4,16450.0,39,1,Regular Customer
+66,0,23,47000,83,9,39010.0,92,3,Regular Customer
+67,1,40,48000,22,2,10560.0,24,1,Regular Customer
+68,0,26,48000,89,9,42720.0,98,3,Regular Customer
+69,1,47,49000,30,3,14700.0,33,1,Regular Customer
+70,0,21,49000,97,10,47530.0,107,3,Regular Customer
+71,1,35,50000,45,5,22500.0,50,1,Regular Customer
+72,0,28,50000,82,8,41000.0,90,3,Regular Customer
+73,1,42,52000,20,2,10400.0,22,1,Regular Customer
+74,0,24,52000,90,9,46800.0,99,3,Regular Customer
+75,1,37,54000,32,4,17280.0,36,1,Regular Customer
+76,0,27,54000,85,9,45900.0,94,3,Regular Customer
+77,1,39,56000,38,4,21280.0,42,1,Regular Customer
+78,0,22,56000,94,10,52640.0,104,0,Regular Customer
+79,1,45,58000,25,3,14500.0,28,1,Regular Customer
+80,0,25,58000,88,9,51040.0,97,0,Regular Customer
+81,1,34,60000,40,5,24000.0,45,1,Regular Customer
+82,0,29,60000,81,8,48600.0,89,3,Regular Customer
+83,1,43,62000,18,2,11160.0,20,1,Regular Customer
+84,0,24,62000,96,10,59520.0,106,0,Regular Customer
+85,1,38,64000,28,3,17920.0,31,1,Regular Customer
+86,0,26,64000,84,9,53760.0,93,0,Regular Customer
+87,1,46,66000,35,4,23100.0,39,1,Regular Customer
+88,0,21,66000,92,10,60720.0,102,0,Regular Customer
+89,1,41,68000,20,2,13600.0,22,1,Regular Customer
+90,0,23,68000,87,9,59160.0,96,0,Regular Customer
+91,1,35,70000,42,5,29400.0,47,1,Regular Customer
+92,0,27,70000,80,8,56000.0,88,0,Premium Customer
+93,1,48,72000,15,2,10800.0,17,1,Potential Customer
+94,0,25,72000,98,10,70560.0,108,0,Premium Customer
+95,1,39,74000,30,3,22200.0,33,1,Potential Customer
+96,0,22,74000,86,9,63640.0,95,0,Premium Customer
+97,1,44,76000,25,3,19000.0,28,1,Potential Customer
+98,0,24,76000,93,10,70680.0,103,0,Premium Customer
+99,1,36,78000,38,4,29640.0,42,1,Potential Customer
+100,0,26,78000,89,9,69420.0,98,0,Premium Customer
+101,1,42,80000,18,2,14400.0,20,1,Potential Customer
+102,0,21,80000,97,10,77600.0,107,0,Premium Customer
+103,1,37,82000,35,4,28700.0,39,1,Potential Customer
+104,0,28,82000,85,9,69700.0,94,0,Premium Customer
+105,1,45,84000,22,2,18480.0,24,1,Potential Customer
+106,0,24,84000,94,10,78960.0,104,0,Premium Customer
+107,1,40,86000,30,3,25800.0,33,1,Potential Customer
+108,0,25,86000,88,9,75680.0,97,0,Premium Customer
+109,1,35,88000,42,5,36960.0,47,1,Regular Customer
+110,0,27,88000,82,8,72160.0,90,0,Premium Customer
+111,1,47,90000,15,2,13500.0,17,1,Potential Customer
+112,0,22,90000,99,10,89100.0,109,0,Premium Customer
+113,1,38,92000,28,3,25760.0,31,1,Potential Customer
+114,0,24,92000,90,9,82800.0,99,0,Premium Customer
+115,1,43,94000,35,4,32900.0,39,1,Potential Customer
+116,0,26,94000,86,9,80840.0,95,0,Premium Customer
+117,1,39,96000,25,3,24000.0,28,1,Potential Customer
+118,0,23,96000,95,10,91200.0,105,0,Premium Customer
+119,1,44,98000,20,2,19600.0,22,1,Potential Customer
+120,0,25,100000,98,10,98000.0,108,0,Premium Customer
